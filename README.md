@@ -1,4 +1,4 @@
-# speech
+# yes/No Recogniser
 
 STEPS USED IN YES/NO RECOGNITION:-
 
